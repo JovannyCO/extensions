@@ -7,10 +7,10 @@
   "description": "Web SDK to access sharded counters.",
   "dependencies": {
     "@types/uuid": "^3.4.4",
-    "uuid": "^3.3.2"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
-    "firebase": "^9.6.1",
+    "firebase": "^12.12.1",
     "prettier": "1.15.3",
     "ts-loader": "^6.0.4",
     "typescript": "^4.5.4",
