@@ -14,8 +14,8 @@
   },
   "dependencies": {
     "@types/node": "14.18.34",
-    "firebase-admin": "^11.4.1",
-    "firebase-functions": "^3.22.0",
+    "firebase-admin": "^13.9.0",
+    "firebase-functions": "^7.2.5",
     "mkdirp": "^1.0.4",
     "rimraf": "^2.6.3",
     "sharp": "0.30.2",
